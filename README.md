@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- **Name:** Liang
+- **Name:** Liang Ma
 - **Email:** alley.ma@qq.com
 - **Language:** Chinese, English
 - **Programing Language:** Javascript, Java, Kotlin, Golang, Python, PHP
