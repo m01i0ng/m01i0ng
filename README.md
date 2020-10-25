@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - **Name:** Liang Ma
 - **Email:** alley.ma@qq.com
-- **Language:** Chinese, English
+- **Spoken Language:** Chinese, English
 - **Programing Language:** Javascript, Java, Kotlin, Golang, Python, PHP
-- **DevOps:** Linux, Docker, Kubernetes
+- **DevOps:** Linux, Docker, Kubernetes, Rancher
 - **Homepage:** https://m01i0ng.js.org
 
 [![m01i0ng's github stats](https://github-readme-stats.vercel.app/api?username=m01i0ng&count_private=true&show_icons=true)]((https://github.com/anuraghazra/github-readme-stats))
